@@ -26,11 +26,20 @@ Dibagikan dosen pada pertemuan 1, keduanya ada di `materi/2026-09-07-pertemuan-1
 Potongan Bab 1 kedua buku sudah diekstrak ke `materi/2026-09-07-pertemuan-1/cetak/`
 supaya tinggal dicetak tanpa perlu memilih rentang halaman lagi.
 
+## Rangkuman
+
+Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan belajar.
+
+| Rangkuman | Isi | Panjang |
+|---|---|---|
+| [Tanenbaum Bab 1: Introduction](rangkuman/tanenbaum-bab1-introduction.md) | Apa itu OS, sejarah lima generasi, tinjauan hardware, ragam OS, konsep dasar, system call, struktur OS | 8 bagian, 60 istilah |
+| [Stallings Bab 1: Computer System Overview](rangkuman/stallings-bab1-computer-system-overview.md) | Elemen dasar, register prosesor, siklus instruksi, interrupt, hierarki memori, cache, teknik I/O | 5 bagian, 37 istilah |
+
 ## Progres
 
 | Pertemuan | Tanggal | Catatan |
 |---|---|---|
-| 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. |
+| 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. Rangkuman Bab 1 kedua buku sudah dibuat. |
 
 ## Yang belum jelas
 
