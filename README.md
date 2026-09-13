@@ -35,11 +35,31 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | [Tanenbaum Bab 1: Introduction](rangkuman/tanenbaum-bab1-introduction.md) | Apa itu OS, sejarah lima generasi, tinjauan hardware, ragam OS, konsep dasar, system call, struktur OS | 8 bagian, 60 istilah |
 | [Stallings Bab 1: Computer System Overview](rangkuman/stallings-bab1-computer-system-overview.md) | Elemen dasar, register prosesor, siklus instruksi, interrupt, hierarki memori, cache, teknik I/O | 5 bagian, 37 istilah |
 
+## Tugas
+
+| Tugas | Diberikan | Hasil | Status |
+|---|---|---|---|
+| [Tugas 1: Perintah Dasar Linux](2026-09-09-tugas-1-cli-linux/) | Rabu 9 Sep 2026, praktikum | [`T1_2B_048.pdf`](2026-09-09-tugas-1-cli-linux/T1_2B_048.pdf), exercise chapter 3 nomor 1-30 dengan screenshot asli dari Ubuntu | Selesai, belum dikumpulkan. Deadline hari H praktikum, perkiraan Rabu 16 Sep 2026 |
+
 ## Progres
 
 | Pertemuan | Tanggal | Catatan |
 |---|---|---|
-| 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. Rangkuman Bab 1 kedua buku sudah dibuat. |
+| Teori 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. Rangkuman Bab 1 kedua buku sudah dibuat. |
+| Praktikum 1 | Rabu 9 Sep 2026 | Tugas 1 lewat Google Classroom: pelajari chapter 1-3 buku cli-computing, kerjakan exercise chapter 3. |
+
+## Struktur folder
+
+```
+sistem-operasi/
+├── README.md
+├── rangkuman/                      catatan Bab 1 Tanenbaum dan Stallings
+├── 2026-09-09-tugas-1-cli-linux/
+│   ├── README.md                   instruksi, hasil, dan deadline
+│   ├── lingkungan.md               kenapa dikerjakan di Linux, bukan macOS
+│   └── T1_2B_048.pdf               berkas yang dikumpulkan
+└── materi/                         buku dari dosen, tidak ikut di-push
+```
 
 ## Yang belum jelas
 
@@ -48,7 +68,11 @@ karena Bab 1-nya memang bab pengantar sistem operasi, sedangkan Bab 1 Stallings 
 penyegaran arsitektur komputer yang beririsan dengan mata kuliah Arsitektur dan Organisasi
 Komputer. Perlu dipastikan ke dosen atau grup kelas.
 
+Deadline Tugas 1 ditulis "hari H perkuliahan, menyesuaikan jadwal perkuliahan pengganti",
+tanpa tanggal pasti. Perlu dicek lagi di Google Classroom.
+
 ## Catatan
 
-Buku pada `materi/` berhak cipta penerbit. Kalau folder ini dijadikan repo publik,
-`materi/` wajib dimasukkan ke `.gitignore`.
+Buku pada `materi/` berhak cipta penerbit, jadi folder itu masuk `.gitignore`.
+Screenshot instruksi tugas dari Google Classroom juga tidak ikut di-push karena isinya
+postingan dosen, teks instruksinya sudah ditulis ulang di README tugas.
