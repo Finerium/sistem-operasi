@@ -11,8 +11,10 @@ Politeknik Negeri Bandung. Semester Ganjil 2026/2027.
 
 | Jenis | Waktu | Ruang | Dosen |
 |---|---|---|---|
-| Teori | Senin 13.50 - 15.20 | D111 | Setiadi Rachmat, M.Eng. |
+| Teori | Senin mulai 13.00 | D111 | Setiadi Rachmat, M.Eng. |
 | Praktikum | Rabu 15.40 - 17.20 | D115 Lab. PjBL-1 | Muhammad Riza Alifi, S.T., M.T. |
+
+Jam teori Senin diubah dosen dari 13.50 menjadi 13.00 per 14 September 2026, jam selesainya belum diumumkan.
 
 ## Buku referensi
 
@@ -47,6 +49,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 |---|---|---|
 | Teori 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. Rangkuman Bab 1 kedua buku sudah dibuat. |
 | Praktikum 1 | Rabu 9 Sep 2026 | Tugas 1 lewat Google Classroom: pelajari chapter 1-3 buku cli-computing, kerjakan exercise chapter 3. |
+| Teori 2 | Senin 14 Sep 2026 | Batal karena dosen tidak hadir, pengganti belum diumumkan. Cetakan Bab 1 dibawa ke pertemuan berikutnya. |
 
 ## Struktur folder
 
