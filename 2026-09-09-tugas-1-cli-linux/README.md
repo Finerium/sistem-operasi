@@ -20,11 +20,13 @@ Chapter yang dimaksud:
 ## Deliverables
 
 1. Berkas PDF berisi identitas (NIM, Nama Lengkap, Kelas, Nama Mata Kuliah) dan jawaban.
-2. Penamaan berkas: `T1_2B_[3 Digit NIM Terakhir].pdf`, untuk Ghaisan jadi **`T1_2B_048.pdf`**
+2. Penamaan berkas: `Tugas_P1_2X_[3 Digit NIM Terakhir].pdf` dengan 2X diganti kelas, untuk Ghaisan jadi
+   **`Tugas_P1_2B_048.pdf`**. Instruksi pertama di Google Classroom memakai pola `T1_2B_[3 digit].pdf`,
+   lalu diperbarui di assignment Teams "[2B] P1 Perintah Dasar Linux - Chapter 1, 2 & 3"
 
 ## Hasil
 
-[`T1_2B_048.pdf`](T1_2B_048.pdf), 28 halaman, sekitar 7 MB. Isinya:
+[`Tugas_P1_2B_048.pdf`](Tugas_P1_2B_048.pdf), 28 halaman, sekitar 7 MB. Isinya:
 
 - BAB I lingkungan pengerjaan: versi Ubuntu, coreutils, dan paket tambahan yang dipakai.
 - BAB II jawaban soal 1 sampai 30. Tiap soal berisi ringkasan soal, jawaban, penjelasan singkat,

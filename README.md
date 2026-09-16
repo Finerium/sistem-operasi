@@ -41,7 +41,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 
 | Tugas | Diberikan | Hasil | Status |
 |---|---|---|---|
-| [Tugas 1: Perintah Dasar Linux](2026-09-09-tugas-1-cli-linux/) | Rabu 9 Sep 2026, praktikum | [`T1_2B_048.pdf`](2026-09-09-tugas-1-cli-linux/T1_2B_048.pdf), exercise chapter 3 nomor 1-30 dengan screenshot asli dari Ubuntu | Selesai, belum dikumpulkan. Deadline hari H praktikum, perkiraan Rabu 16 Sep 2026 |
+| [Tugas 1: Perintah Dasar Linux](2026-09-09-tugas-1-cli-linux/) | Rabu 9 Sep 2026, praktikum | [`Tugas_P1_2B_048.pdf`](2026-09-09-tugas-1-cli-linux/Tugas_P1_2B_048.pdf), exercise chapter 3 nomor 1-30 dengan screenshot asli dari Ubuntu | Selesai, dikumpulkan lewat Teams, deadline Rabu 16 Sep 2026 23.59 |
 
 ## Progres
 
@@ -60,7 +60,7 @@ sistem-operasi/
 ├── 2026-09-09-tugas-1-cli-linux/
 │   ├── README.md                   instruksi, hasil, dan deadline
 │   ├── lingkungan.md               kenapa dikerjakan di Linux, bukan macOS
-│   └── T1_2B_048.pdf               berkas yang dikumpulkan
+│   └── Tugas_P1_2B_048.pdf        berkas yang dikumpulkan
 └── materi/                         buku dari dosen, tidak ikut di-push
 ```
 
