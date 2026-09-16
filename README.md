@@ -42,6 +42,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | Tugas | Diberikan | Hasil | Status |
 |---|---|---|---|
 | [Tugas 1: Perintah Dasar Linux](2026-09-09-tugas-1-cli-linux/) | Rabu 9 Sep 2026, praktikum | [`Tugas_P1_2B_048.pdf`](2026-09-09-tugas-1-cli-linux/Tugas_P1_2B_048.pdf), exercise chapter 3 nomor 1-30 dengan screenshot asli dari Ubuntu | Selesai, dikumpulkan lewat Teams, deadline Rabu 16 Sep 2026 23.59 |
+| [Tugas P2: Chapter 4 dan 5](2026-09-16-p2-cli-linux/) | Rabu 16 Sep 2026, lewat Teams | [`Tugas_P2_2B_048.pdf`](2026-09-16-p2-cli-linux/Tugas_P2_2B_048.pdf), 27 soal Shell Features dan 12 soal Viewing File Contents dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Selasa 22 Sep 2026 23.59 |
 
 ## Progres
 
@@ -50,6 +51,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | Teori 1 | Senin 7 Sep 2026 | Pembagian dua buku referensi. Tugas: cetak Bab 1 untuk pertemuan berikutnya. Rangkuman Bab 1 kedua buku sudah dibuat. |
 | Praktikum 1 | Rabu 9 Sep 2026 | Tugas 1 lewat Google Classroom: pelajari chapter 1-3 buku cli-computing, kerjakan exercise chapter 3. |
 | Teori 2 | Senin 14 Sep 2026 | Batal karena dosen tidak hadir, pengganti belum diumumkan. Cetakan Bab 1 dibawa ke pertemuan berikutnya. |
+| Praktikum 2 | Rabu 16 Sep 2026 | Tugas P2 lewat Teams: pelajari chapter 4 dan 5 buku cli-computing, kerjakan exercise-nya. |
 
 ## Struktur folder
 
@@ -61,6 +63,9 @@ sistem-operasi/
 │   ├── README.md                   instruksi, hasil, dan deadline
 │   ├── lingkungan.md               kenapa dikerjakan di Linux, bukan macOS
 │   └── Tugas_P1_2B_048.pdf        berkas yang dikumpulkan
+├── 2026-09-16-p2-cli-linux/
+│   ├── README.md
+│   └── Tugas_P2_2B_048.pdf        berkas yang dikumpulkan
 └── materi/                         buku dari dosen, tidak ikut di-push
 ```
 
