@@ -11,10 +11,11 @@ Politeknik Negeri Bandung. Semester Ganjil 2026/2027.
 
 | Jenis | Waktu | Ruang | Dosen |
 |---|---|---|---|
-| Teori | Senin mulai 13.00 | D111 | Setiadi Rachmat, M.Eng. |
+| Teori | Senin 13.00 - 14.40 | D111 | Setiadi Rachmat, M.Eng. |
 | Praktikum | Rabu 15.40 - 17.20 | D115 Lab. PjBL-1 | Muhammad Riza Alifi, S.T., M.T. |
 
-Jam teori Senin diubah dosen dari 13.50 menjadi 13.00 per 14 September 2026, jam selesainya belum diumumkan.
+Jam teori Senin diubah dosen dari 13.50 menjadi 13.00 per 14 September 2026. Durasinya tetap 100 menit,
+jadi selesai 14.40.
 
 ## Buku referensi
 
