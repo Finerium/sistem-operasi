@@ -1,0 +1,105 @@
+Membaca daftar user dari users.txt
+Group marketing sudah ada
+Folder /company/marketing sudah ada
+User zaky berhasil dibuat dengan home folder /home/zaky
+User zaky berhasil ditambahkan ke group marketing
+User aliya berhasil dibuat dengan home folder /home/aliya
+User aliya berhasil ditambahkan ke group marketing
+User rina berhasil dibuat dengan home folder /home/rina
+User rina berhasil ditambahkan ke group marketing
+Group developer sudah ada
+Folder /company/developer sudah ada
+User revina berhasil dibuat dengan home folder /home/revina
+User revina berhasil ditambahkan ke group developer
+User zen berhasil dibuat dengan home folder /home/zen
+User zen berhasil ditambahkan ke group developer
+User arif berhasil dibuat dengan home folder /home/arif
+User arif berhasil ditambahkan ke group developer
+Group finance sudah ada
+Folder /company/finance sudah ada
+User halim berhasil dibuat dengan home folder /home/halim
+User halim berhasil ditambahkan ke group finance
+User reiki berhasil dibuat dengan home folder /home/reiki
+User reiki berhasil ditambahkan ke group finance
+User tomi berhasil dibuat dengan home folder /home/tomi
+User tomi berhasil ditambahkan ke group finance
+Group design sudah ada
+Folder /company/design sudah ada
+User dian berhasil dibuat dengan home folder /home/dian
+User dian berhasil ditambahkan ke group design
+User sari berhasil dibuat dengan home folder /home/sari
+User sari berhasil ditambahkan ke group design
+User gilang berhasil dibuat dengan home folder /home/gilang
+User gilang berhasil ditambahkan ke group design
+User aliya sudah ada
+User aliya sudah ada
+Nama user aliya diganti menjadi aliyaputri
+User aliyaputri berhasil dibuat dengan home folder /home/aliyaputri
+User aliyaputri berhasil ditambahkan ke group developer
+Group hr sudah ada
+Folder /company/hr sudah ada
+User nina berhasil dibuat dengan home folder /home/nina
+User nina berhasil ditambahkan ke group hr
+User eko berhasil dibuat dengan home folder /home/eko
+User eko berhasil ditambahkan ke group hr
+User fitri berhasil dibuat dengan home folder /home/fitri
+User fitri berhasil ditambahkan ke group hr
+Group support berhasil dibuat
+Folder /company/support berhasil dibuat (root:support, permission 2770)
+Group support diberi akses read-only ke /company/shared
+User bayu berhasil dibuat dengan home folder /home/bayu
+User bayu berhasil ditambahkan ke group support
+User linda berhasil dibuat dengan home folder /home/linda
+User linda berhasil ditambahkan ke group support
+User reza berhasil dibuat dengan home folder /home/reza
+User reza berhasil ditambahkan ke group support
+Group sales sudah ada
+Folder /company/sales sudah ada
+User yusuf berhasil dibuat dengan home folder /home/yusuf
+User yusuf berhasil ditambahkan ke group sales
+User tina berhasil dibuat dengan home folder /home/tina
+User tina berhasil ditambahkan ke group sales
+User adi berhasil dibuat dengan home folder /home/adi
+User adi berhasil ditambahkan ke group sales
+Group qa berhasil dibuat
+Folder /company/qa berhasil dibuat (root:qa, permission 2770)
+Group qa diberi akses read-only ke /company/shared
+User hendra berhasil dibuat dengan home folder /home/hendra
+User hendra berhasil ditambahkan ke group qa
+User vika berhasil dibuat dengan home folder /home/vika
+User vika berhasil ditambahkan ke group qa
+User faris berhasil dibuat dengan home folder /home/faris
+User faris berhasil ditambahkan ke group qa
+Group ops sudah ada
+Folder /company/ops sudah ada
+User indra berhasil dibuat dengan home folder /home/indra
+User indra berhasil ditambahkan ke group ops
+User susi berhasil dibuat dengan home folder /home/susi
+User susi berhasil ditambahkan ke group ops
+User joko berhasil dibuat dengan home folder /home/joko
+User joko berhasil ditambahkan ke group ops
+User halim sudah ada
+Nama user halim diganti menjadi halimperdana
+User halimperdana berhasil dibuat dengan home folder /home/halimperdana
+User halimperdana berhasil ditambahkan ke group ops
+Group it sudah ada
+Folder /company/it sudah ada
+User putri berhasil dibuat dengan home folder /home/putri
+User putri berhasil ditambahkan ke group it
+User agus berhasil dibuat dengan home folder /home/agus
+User agus berhasil ditambahkan ke group it
+User dewi berhasil dibuat dengan home folder /home/dewi
+User dewi berhasil ditambahkan ke group it
+User ali berhasil dibuat dengan home folder /home/ali
+User ali berhasil ditambahkan ke group marketing
+User dwi berhasil dibuat dengan home folder /home/dwi
+User dwi berhasil ditambahkan ke group developer
+User mega berhasil dibuat dengan home folder /home/mega
+User mega berhasil ditambahkan ke group finance
+User fajar berhasil dibuat dengan home folder /home/fajar
+User fajar berhasil ditambahkan ke group design
+User wulan berhasil dibuat dengan home folder /home/wulan
+User wulan berhasil ditambahkan ke group hr
+User yani berhasil dibuat dengan home folder /home/yani
+User yani berhasil ditambahkan ke group support
+Selesai, 38 user berhasil dibuat

@@ -47,6 +47,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | [Tugas P3.1: Chapter 6](2026-09-23-p3.1-cli-linux/) | Rabu 23 Sep 2026, lewat Teams | [`Tugas_P3.1_2B_048.pdf`](2026-09-23-p3.1-cli-linux/Tugas_P3.1_2B_048.pdf), 31 soal Searching Files and Filenames (`grep`, `find`, `locate`) dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Rabu 23 Sep 2026 23.59 |
 | [Tugas P3.2: Chapter 7](2026-09-23-p3.2-cli-linux/) | Rabu 23 Sep 2026, lewat Teams | [`Tugas_P3.2_2B_048.pdf`](2026-09-23-p3.2-cli-linux/Tugas_P3.2_2B_048.pdf), 21 soal File Properties (`wc`, `du`, `df`, `stat`, `touch`, `file`, `chmod`) dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Senin 28 Sep 2026 |
 | [Tugas P4: User Management and Permission](2026-09-30-p4-user-permission/) | Rabu 30 Sep 2026, lewat Teams | [`Tugas_P4_2B_048.pdf`](2026-09-30-p4-user-permission/Tugas_P4_2B_048.pdf), studi kasus user, group, permission, ACL, dan setgid untuk tiga divisi, dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Selasa 6 Okt 2026 23.59 |
+| [Tugas P5: Shell Script User Management](2026-10-07-p5-shell-script/) | Rabu 7 Okt 2026, lewat Teams | [`Tugas_P5_2B_048.pdf`](2026-10-07-p5-shell-script/Tugas_P5_2B_048.pdf), 8 group dan permission, script `buat_user.sh` ditulis di vi: 38 user dari users.txt, cek user dan group yang sudah ada, pesan tiap aksi, users-created.txt dan actions.log | Selesai, belum dikumpulkan. Deadline Selasa 13 Okt 2026 23.59 |
 
 ## Progres
 
@@ -58,6 +59,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | Praktikum 2 | Rabu 16 Sep 2026 | Tugas P2 lewat Teams: pelajari chapter 4 dan 5 buku cli-computing, kerjakan exercise-nya. |
 | Praktikum 3 | Rabu 23 Sep 2026 | Tugas P3.1 lewat Teams: pelajari chapter 6 buku cli-computing, kerjakan exercise-nya. Tugas P3.2 (chapter 7) diumumkan bersamaan, deadline Senin 28 Sep 2026. |
 | Praktikum 4 | Rabu 30 Sep 2026 | Tugas P4 lewat Teams: user management dan permission (user, group, chmod, ACL, setgid) dengan studi kasus tiga divisi. |
+| Praktikum 5 | Rabu 7 Okt 2026 | Tugas P5 lewat Teams: shell script user management (group, permission, create user dari file teks, log). |
 
 ## Struktur folder
 
@@ -81,6 +83,12 @@ sistem-operasi/
 ├── 2026-09-30-p4-user-permission/
 │   ├── README.md
 │   └── Tugas_P4_2B_048.pdf        berkas yang dikumpulkan
+├── 2026-10-07-p5-shell-script/
+│   ├── README.md
+│   ├── buat_user.sh               script yang ditulis di vi
+│   ├── users.txt                  daftar user dari soal
+│   ├── hasil/                     users-created.txt dan actions.log hasil run
+│   └── Tugas_P5_2B_048.pdf        berkas yang dikumpulkan
 └── materi/                         buku dari dosen, tidak ikut di-push
 ```
 
