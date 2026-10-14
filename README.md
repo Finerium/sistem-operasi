@@ -48,6 +48,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | [Tugas P3.2: Chapter 7](2026-09-23-p3.2-cli-linux/) | Rabu 23 Sep 2026, lewat Teams | [`Tugas_P3.2_2B_048.pdf`](2026-09-23-p3.2-cli-linux/Tugas_P3.2_2B_048.pdf), 21 soal File Properties (`wc`, `du`, `df`, `stat`, `touch`, `file`, `chmod`) dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Senin 28 Sep 2026 |
 | [Tugas P4: User Management and Permission](2026-09-30-p4-user-permission/) | Rabu 30 Sep 2026, lewat Teams | [`Tugas_P4_2B_048.pdf`](2026-09-30-p4-user-permission/Tugas_P4_2B_048.pdf), studi kasus user, group, permission, ACL, dan setgid untuk tiga divisi, dengan screenshot asli | Selesai, belum dikumpulkan. Deadline Selasa 6 Okt 2026 23.59 |
 | [Tugas P5: Shell Script User Management](2026-10-07-p5-shell-script/) | Rabu 7 Okt 2026, lewat Teams | [`Tugas_P5_2B_048.pdf`](2026-10-07-p5-shell-script/Tugas_P5_2B_048.pdf), 8 group dan permission, script `buat_user.sh` ditulis di vi: 38 user dari users.txt, cek user dan group yang sudah ada, pesan tiap aksi, users-created.txt dan actions.log | Selesai, belum dikumpulkan. Deadline Selasa 13 Okt 2026 23.59 |
+| [Tugas P6: Signal](2026-10-14-p6-signal/) | Rabu 14 Okt 2026, lewat Teams | [`Tugas_P6_2B_048.c`](2026-10-14-p6-signal/Tugas_P6_2B_048.c) + 2 screenshot, program C yang menangkap signal 1 sampai 5 dan mencetak jumlahnya tiap detik | Selesai, belum dikumpulkan. Deadline Rabu 14 Okt 2026 23.59 |
 
 ## Progres
 
@@ -60,6 +61,7 @@ Catatan Bab 1 kedua buku, ditulis ulang dengan kalimat sendiri sebagai bahan bel
 | Praktikum 3 | Rabu 23 Sep 2026 | Tugas P3.1 lewat Teams: pelajari chapter 6 buku cli-computing, kerjakan exercise-nya. Tugas P3.2 (chapter 7) diumumkan bersamaan, deadline Senin 28 Sep 2026. |
 | Praktikum 4 | Rabu 30 Sep 2026 | Tugas P4 lewat Teams: user management dan permission (user, group, chmod, ACL, setgid) dengan studi kasus tiga divisi. |
 | Praktikum 5 | Rabu 7 Okt 2026 | Tugas P5 lewat Teams: shell script user management (group, permission, create user dari file teks, log). |
+| Praktikum 6 | Rabu 14 Okt 2026 | Tugas P6 lewat Teams: program C penerima signal, source code + maksimal 2 screenshot. |
 
 ## Struktur folder
 
@@ -89,6 +91,10 @@ sistem-operasi/
 │   ├── users.txt                  daftar user dari soal
 │   ├── hasil/                     users-created.txt dan actions.log hasil run
 │   └── Tugas_P5_2B_048.pdf        berkas yang dikumpulkan
+├── 2026-10-14-p6-signal/
+│   ├── README.md
+│   ├── Tugas_P6_2B_048.c          source code yang dikumpulkan
+│   └── Tugas_P6_2B_048_1.png, _2.png  screenshot yang dikumpulkan
 └── materi/                         buku dari dosen, tidak ikut di-push
 ```
 
